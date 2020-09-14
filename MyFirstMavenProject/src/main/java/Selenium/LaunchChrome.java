@@ -14,6 +14,10 @@ public class LaunchChrome {
 		
 		driver.get("http:www.google.com");
 		System.out.println(driver.getTitle());
+		// adding some comments just to see how the changes in this branch will reflect in github 
+		// when ever the changes did , in the eclipse or under the Maven file structure , the file changed will be preceeded by a > symbol
+	// means the changes has to yet to be committed
+	
 	}
 
 }
